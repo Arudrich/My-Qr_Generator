@@ -1,0 +1,4 @@
+things to do before running this code: - ARU
+
+pip install qrcode
+
